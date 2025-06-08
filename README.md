@@ -2,13 +2,10 @@
 
 This is a Node.js-based CLI tool.
 
-## 📦 Installation
+## 📦 Installation & Run
 
-To install all dependencies, run:
+To install all dependencies and run the program, use:
 
 ```bash
 npm install
-
-## To run the program
-
 npx shivasingh4
